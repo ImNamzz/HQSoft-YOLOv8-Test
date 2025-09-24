@@ -12,8 +12,8 @@
 ## Installation guide
 1. **Clone this repo:**
     ```bash
-    git clone https://github.com/ImNamzz/HQSoft-YOLOv8-Test.git
-    cd HQSoft-YOLOv8-Test
+    git clone https://github.com/ImNamzz/YOLOv8-App.git
+    cd YOLOv8-Test
     ```
 
 2. **Create and run virtual Environment:**
