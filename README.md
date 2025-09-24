@@ -1,4 +1,4 @@
-# HQSoft-YOLOv8-Test
+# YOLOv8-Test
 - A simple web app to detect objects using YOLOv8.
 
 ![Demo GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQyaDh1NDFyOXBsY3Vnd2R0YW5sNDB1cGp0ajNnMDc0a3F3Z2ozcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sy1m3x6DiJzOzeTDan/giphy.gif)
